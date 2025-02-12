@@ -1,0 +1,13 @@
+body,
+html {
+  padding: 0;
+  margin: 0;
+  font-family: "Segoe UI", Roboto, "Open Sans", "Helvetica Neue", sans-serif;
+  font-size: 14px;
+}
+
+.MuiTextField-root .MuiOutlinedInput-root {
+  outline: none !important;
+  border-radius: 20px;
+}
+
